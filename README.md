@@ -1,0 +1,1 @@
+# web3013_php-2 hey if you want to run, first you run apache server or any server support, next create database look like my database and check config connect database, everything ok you can open file index and enjoy "good luck".
